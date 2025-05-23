@@ -17,4 +17,5 @@ Person arrives on website and either clicks to chat with the chatbot or enters t
 The agent then determines what they are needing help with, and then routes them to the correct tool (knowledge base Q&A or instant quote)
 
 Try here 👇
-https://creator.voiceflow.com/prototype/6827659009bde9328a5f782c
+https://creator.voiceflow.com/prototype/6827659009bde9328a5f782c - CHAT
+https://creator.voiceflow.com/prototype/6827659009bde9328a5f782c - CALL/VOICE
